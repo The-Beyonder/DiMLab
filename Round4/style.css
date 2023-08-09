@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  background: #222;
+  font-family: "Exo 2", sans-serif;
+  font-weight: 400;
+}
+ul a:hover {
+  color: cyan !important;
+}
+ul a {
+  font-size: larger;
+}
+.nav-item {
+  margin-left: 1em;
+  margin-right: 1px;
+}
+.logo {
+  height: 65px;
+}
+
+.files {
+  height: 890px;
+  width: auto;
+}
+.storyline a {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  padding: 10px;
+  color: rgb(34, 34, 156);
+  /* border: 2px solid blue; */
+  border-radius: 4px;
+  background-color: whitesmoke;
+  margin: 0 50px 40px 0;
+  text-decoration: none;
+}
+.storyline a:hover {
+  color: cyan;
+  opacity: 0.7;
+}
+.story img {
+  size: contain;
+}
+.alert {
+  background-color: #101010; 
+  font-size: larger;
+  font-family: "Exo 2", sans-serif;
+  color:rgb(125, 197, 255);
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: rgb(166, 252, 252);
+  font-weight: bold;
+  float: right;
+  font-size: 25px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color:white;
+}
