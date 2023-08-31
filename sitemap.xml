@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://dim-lab.vercel.app/</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Files/files.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round1/Round1.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round2/Round2.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round3/Round3.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round4/Round4.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round5/Round5.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round6/Round6.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round7/Round7.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/index.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dim-lab.vercel.app/Round8/Round8.html</loc>
+  <lastmod>2023-08-31T08:46:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
